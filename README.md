@@ -1,8 +1,8 @@
 # Webt (Web Tool)
 
-A command line tool meant for interacting with websites
+### A command line tool meant for interacting with websites
 ---
 
-### Commands
+## Commands
 
 ![Help Command](help_command.jpg)
